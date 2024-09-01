@@ -1,0 +1,26 @@
+[gd_scene load_steps=5 format=3 uid="uid://b6b65wkwn2ve2"]
+
+[ext_resource type="Texture2D" uid="uid://gxqb8qjqonpx" path="res://Sprites/FOOD.png" id="1_u5ty1"]
+[ext_resource type="Script" path="res://Scene/food.gd" id="2_e71t2"]
+[ext_resource type="AudioStream" uid="uid://bft00dti5jsu7" path="res://Sounds/nyah-105109.mp3" id="3_vpuwc"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_0o6o0"]
+
+[node name="Food" type="Sprite2D"]
+texture = ExtResource("1_u5ty1")
+region_enabled = true
+region_rect = Rect2(0, 0, 32, 32)
+script = ExtResource("2_e71t2")
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(0, 1)
+scale = Vector2(1.50325, 1.36794)
+shape = SubResource("CircleShape2D_0o6o0")
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("3_vpuwc")
+volume_db = -0.5
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]

@@ -1,0 +1,24 @@
+[gd_scene load_steps=2 format=3 uid="uid://cg5ttyo4nwo17"]
+
+[ext_resource type="Texture2D" uid="uid://bx3uwpklx3trj" path="res://Sprites/Arrow.png" id="1_be1tc"]
+
+[node name="TouchControls" type="CanvasLayer"]
+follow_viewport_enabled = true
+
+[node name="up" type="TouchScreenButton" parent="."]
+position = Vector2(591, 253)
+rotation = 1.5708
+scale = Vector2(0.8, 0.937)
+texture_normal = ExtResource("1_be1tc")
+action = "upArrow"
+
+[node name="right" type="TouchScreenButton" parent="."]
+position = Vector2(142, 288)
+rotation = 3.14159
+texture_normal = ExtResource("1_be1tc")
+action = "rightArrow"
+
+[node name="left" type="TouchScreenButton" parent="."]
+position = Vector2(40, 266)
+texture_normal = ExtResource("1_be1tc")
+action = "leftArrow"

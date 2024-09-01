@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bikg6itwwk4q2"
+path="res://.godot/imported/13.08, 20.34 ч._.mp3-1e822c3c1f5e2d57530837924e9af5ec.mp3str"
+
+[deps]
+
+source_file="res://Sounds/13.08, 20.34 ч._.mp3"
+dest_files=["res://.godot/imported/13.08, 20.34 ч._.mp3-1e822c3c1f5e2d57530837924e9af5ec.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

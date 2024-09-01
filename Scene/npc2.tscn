@@ -1,0 +1,32 @@
+[gd_scene load_steps=6 format=3 uid="uid://dfwdnjlr6sdgn"]
+
+[ext_resource type="Texture2D" uid="uid://da4i3bieeg2jt" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Character skin colors/Male Skin5.png" id="1_srorv"]
+[ext_resource type="Texture2D" uid="uid://cxytebqkrcmkd" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Clothing/Green Pants.png" id="2_6ki0y"]
+[ext_resource type="Texture2D" uid="uid://cqeldkhx4o34m" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Clothing/Boots.png" id="3_4uw4o"]
+[ext_resource type="Texture2D" uid="uid://du8qu5ycb0mmd" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Clothing/orange Shirt v2.png" id="4_egk5v"]
+[ext_resource type="Texture2D" uid="uid://byndrc3gla2ti" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Hair/Male Hair5.png" id="5_2g3jr"]
+
+[node name="MaleSkin5" type="Sprite2D"]
+texture = ExtResource("1_srorv")
+hframes = 11
+vframes = 6
+
+[node name="GreenPants" type="Sprite2D" parent="."]
+texture = ExtResource("2_6ki0y")
+hframes = 11
+vframes = 6
+
+[node name="Boots" type="Sprite2D" parent="."]
+texture = ExtResource("3_4uw4o")
+hframes = 11
+vframes = 6
+
+[node name="OrangeShirtV2" type="Sprite2D" parent="."]
+texture = ExtResource("4_egk5v")
+hframes = 11
+vframes = 6
+
+[node name="MaleHair5" type="Sprite2D" parent="."]
+texture = ExtResource("5_2g3jr")
+hframes = 11
+vframes = 6

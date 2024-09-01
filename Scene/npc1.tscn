@@ -1,0 +1,42 @@
+[gd_scene load_steps=8 format=3 uid="uid://ba8rlaridy5rl"]
+
+[ext_resource type="Script" path="res://Scene/npc1.gd" id="1_jt7rn"]
+[ext_resource type="Texture2D" uid="uid://bxp23ov7jixp6" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Character skin colors/Female Skin1.png" id="1_r62hi"]
+[ext_resource type="Texture2D" uid="uid://bfk2v1tnffdv" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Clothing/Blue Corset v2.png" id="2_4x0r3"]
+[ext_resource type="Texture2D" uid="uid://cqugfnyej061j" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Clothing/Boots.png" id="3_lx55d"]
+[ext_resource type="Texture2D" uid="uid://cmscb1nbv2a2s" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Clothing/Skirt.png" id="4_pprug"]
+[ext_resource type="Texture2D" uid="uid://cdw4h8slrvuyi" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Hair/Female Hair1.png" id="5_qlesd"]
+[ext_resource type="AudioStream" uid="uid://dfw84xlvlb13" path="res://Sounds/541663__mamiewilhelm__mamie_gibberish_1.mp3" id="6_5f43h"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_jt7rn")
+
+[node name="FemaleSkin1" type="Sprite2D" parent="."]
+texture = ExtResource("1_r62hi")
+hframes = 11
+vframes = 6
+
+[node name="BlueCorsetV2" type="Sprite2D" parent="."]
+position = Vector2(0, -1)
+texture = ExtResource("2_4x0r3")
+hframes = 11
+vframes = 6
+
+[node name="Boots" type="Sprite2D" parent="."]
+texture = ExtResource("3_lx55d")
+hframes = 11
+vframes = 6
+
+[node name="Skirt" type="Sprite2D" parent="."]
+position = Vector2(0, -4)
+texture = ExtResource("4_pprug")
+hframes = 11
+vframes = 6
+
+[node name="FemaleHair1" type="Sprite2D" parent="."]
+texture = ExtResource("5_qlesd")
+hframes = 11
+vframes = 6
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("6_5f43h")

@@ -1,0 +1,39 @@
+[gd_scene load_steps=8 format=3 uid="uid://brtkfpu3pykcy"]
+
+[ext_resource type="Texture2D" uid="uid://dvm50dlsguscc" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Character skin colors/Male Skin2.png" id="1_alg8p"]
+[ext_resource type="Script" path="res://Scene/npc3.gd" id="2_gv45l"]
+[ext_resource type="Texture2D" uid="uid://ds5atybmypfcy" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Clothing/Purple Pants.png" id="2_hdepb"]
+[ext_resource type="Texture2D" uid="uid://8o0b01cdya5v" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Clothing/Purple Shirt v2.png" id="3_csoqx"]
+[ext_resource type="Texture2D" uid="uid://4ajbasfe8u6w" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Hair/Male Hair3.png" id="4_j373s"]
+[ext_resource type="Texture2D" uid="uid://cgtk6vv62147r" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Clothing/Shoes.png" id="5_3ggox"]
+[ext_resource type="AudioStream" uid="uid://sir6b0i8pnqc" path="res://Sounds/12.08, 04.27 ч._.mp3" id="7_mhpyg"]
+
+[node name="MaleSkin2" type="Sprite2D"]
+texture = ExtResource("1_alg8p")
+hframes = 11
+vframes = 6
+script = ExtResource("2_gv45l")
+
+[node name="PurplePants" type="Sprite2D" parent="."]
+texture = ExtResource("2_hdepb")
+hframes = 11
+vframes = 6
+
+[node name="PurpleShirtV2" type="Sprite2D" parent="."]
+texture = ExtResource("3_csoqx")
+hframes = 11
+vframes = 6
+
+[node name="MaleHair3" type="Sprite2D" parent="."]
+texture = ExtResource("4_j373s")
+hframes = 11
+vframes = 6
+
+[node name="Shoes" type="Sprite2D" parent="."]
+texture = ExtResource("5_3ggox")
+hframes = 11
+vframes = 6
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("7_mhpyg")
+volume_db = 24.0

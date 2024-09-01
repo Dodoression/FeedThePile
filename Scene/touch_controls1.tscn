@@ -1,0 +1,47 @@
+[gd_scene load_steps=5 format=3 uid="uid://ydbmnr3r2n6k"]
+
+[ext_resource type="Texture2D" uid="uid://bx3uwpklx3trj" path="res://Sprites/Arrow.png" id="1_0q2w8"]
+[ext_resource type="Script" path="res://Scene/touch_controls1.gd" id="1_1jsr1"]
+[ext_resource type="FontFile" uid="uid://b2w5ab58orthq" path="res://Font/hush-home-bg/hush-home.ttf" id="2_jfirq"]
+
+[sub_resource type="Theme" id="Theme_7kukj"]
+default_font = ExtResource("2_jfirq")
+default_font_size = 20
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_1jsr1")
+
+[node name="up" type="TouchScreenButton" parent="."]
+position = Vector2(591, 253)
+rotation = 1.5708
+scale = Vector2(0.8, 0.937)
+texture_normal = ExtResource("1_0q2w8")
+action = "upArrow"
+
+[node name="right" type="TouchScreenButton" parent="."]
+position = Vector2(142, 288)
+rotation = 3.14159
+texture_normal = ExtResource("1_0q2w8")
+action = "rightArrow"
+
+[node name="left" type="TouchScreenButton" parent="."]
+position = Vector2(40, 266)
+texture_normal = ExtResource("1_0q2w8")
+action = "leftArrow"
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+layout_mode = 0
+offset_top = 5.0
+offset_right = 360.0
+offset_bottom = 45.0
+theme = SubResource("Theme_7kukj")
+theme_override_colors/default_color = Color(0.421693, 0.124032, 0.107807, 1)
+theme_override_font_sizes/normal_font_size = 21
+bbcode_enabled = true
+text = " [b]Current pile weight: [/b]"

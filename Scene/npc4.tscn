@@ -1,0 +1,28 @@
+[gd_scene load_steps=6 format=3 uid="uid://d0o50r2ngdo65"]
+
+[ext_resource type="Texture2D" uid="uid://bxp23ov7jixp6" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Character skin colors/Female Skin1.png" id="1_mniri"]
+[ext_resource type="Script" path="res://Scene/npc4.gd" id="2_wtxcs"]
+[ext_resource type="Texture2D" uid="uid://blf6g0a84cuai" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Clothing/Red Panties and Bra.png" id="2_yauix"]
+[ext_resource type="Texture2D" uid="uid://bwobp8ivxfscn" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Clothing/Red Socks.png" id="3_0hm3m"]
+[ext_resource type="Texture2D" uid="uid://dddu638ruywlp" path="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Hair/Female Hair3.png" id="4_3veqy"]
+
+[node name="FemaleSkin1" type="Sprite2D"]
+texture = ExtResource("1_mniri")
+hframes = 11
+vframes = 6
+script = ExtResource("2_wtxcs")
+
+[node name="RedPantiesAndBra" type="Sprite2D" parent="."]
+texture = ExtResource("2_yauix")
+hframes = 11
+vframes = 6
+
+[node name="RedSocks" type="Sprite2D" parent="."]
+texture = ExtResource("3_0hm3m")
+hframes = 11
+vframes = 6
+
+[node name="FemaleHair3" type="Sprite2D" parent="."]
+texture = ExtResource("4_3veqy")
+hframes = 11
+vframes = 6
