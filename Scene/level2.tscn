@@ -306,7 +306,7 @@ size = Vector2(131, 20)
 size = Vector2(233, 399)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_p2s1c"]
-size = Vector2(392, 196)
+size = Vector2(273, 196)
 
 [sub_resource type="Theme" id="Theme_2yl46"]
 default_font = ExtResource("4_obii8")
@@ -315,7 +315,7 @@ default_font = ExtResource("4_obii8")
 default_font = ExtResource("4_obii8")
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_gn6jb"]
-size = Vector2(312, 422)
+size = Vector2(433, 422)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_3f06j"]
 size = Vector2(148, 77)
@@ -326,16 +326,31 @@ size = Vector2(148, 77)
 position = Vector2(484.344, 84)
 scale = Vector2(0.540911, 0.540527)
 texture = ExtResource("1_lxeyd")
+flip_h = true
 
 [node name="Background3" type="Sprite2D" parent="."]
 position = Vector2(1453, 84)
 scale = Vector2(0.540527, 0.540527)
 texture = ExtResource("1_lxeyd")
 
+[node name="Background5" type="Sprite2D" parent="."]
+position = Vector2(1453, -469)
+scale = Vector2(0.540527, 0.540527)
+texture = ExtResource("1_lxeyd")
+flip_v = true
+
+[node name="Background6" type="Sprite2D" parent="."]
+position = Vector2(486, -466)
+scale = Vector2(0.540527, 0.540527)
+texture = ExtResource("1_lxeyd")
+flip_h = true
+flip_v = true
+
 [node name="Background4" type="Sprite2D" parent="."]
 position = Vector2(2421, 85.375)
 scale = Vector2(0.540527, 0.543701)
 texture = ExtResource("1_lxeyd")
+flip_h = true
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 position = Vector2(2408, 241)
@@ -377,7 +392,7 @@ position = Vector2(2466, 230)
 [node name="Area2D" type="Area2D" parent="MaleSkin2"]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="MaleSkin2/Area2D"]
-position = Vector2(-47, -73)
+position = Vector2(-106.5, -73)
 shape = SubResource("RectangleShape2D_p2s1c")
 
 [node name="Node" type="Node" parent="MaleSkin2"]
@@ -409,7 +424,7 @@ scroll_following = true
 position = Vector2(2734, 180)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D2"]
-position = Vector2(38, -41)
+position = Vector2(-22.5, -41)
 shape = SubResource("RectangleShape2D_gn6jb")
 
 [node name="Food" parent="." instance=ExtResource("9_kgo4w")]

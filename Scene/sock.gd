@@ -1,7 +1,7 @@
 extends TouchScreenButton
 var timer
-@onready var panel = $"../../Panel"
-@onready var rich_text_label = $"../../RichTextLabel"
+@onready var panel = $Panel
+@onready var rich_text_label = $RichTextLabel
 @onready var node_2d = $".."
 var second_dialogue = false
 var third_dialogue = false
@@ -15,8 +15,9 @@ var play_once_bool = false
 
 @onready var audio_stream_player_2d = $"../AudioStreamPlayer2D"
 
-@onready var panel_2 = $"../../Panel2"
-@onready var rich_text_label_2 = $"../../RichTextLabel2"
+@onready var panel_2 = $"../../CharacterBody2D/Panel2"
+
+@onready var rich_text_label_2 = $"../../CharacterBody2D/RichTextLabel2"
 
 #var attack = preload("res://Scene/attack.tscn")
 
