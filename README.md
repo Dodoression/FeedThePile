@@ -24,7 +24,7 @@ It's just a chicken that's getting progressively fatter.
 To install Feed The Pile! and start playing, follow these steps:
 
 1. Clone the repository: 'git clone https://github.com/Dodoression/FeedThePile.git'
-2. Navigate to the project directory: 'cd feed-the-pile'
+2. Navigate to the project directory: 'cd FeedThePile'
 3. Open the project in Godot: 'godot .'
 4. Export the game: Export the project for Android
 5. Run the exported game file to start playing!
