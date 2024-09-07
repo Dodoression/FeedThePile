@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cso4ndbbyty8a"
-path="res://.godot/imported/Purple Underwear.png-c03c76772c2dff6c16076a890408df22.ctex"
+path="res://.godot/imported/Purple Underwear.png-8f90e7520b1b82e0f428a1164fae6041.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Clothing/Purple Underwear.png"
-dest_files=["res://.godot/imported/Purple Underwear.png-c03c76772c2dff6c16076a890408df22.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Clothing/Purple Underwear.png"
+dest_files=["res://.godot/imported/Purple Underwear.png-8f90e7520b1b82e0f428a1164fae6041.ctex"]
 
 [params]
 

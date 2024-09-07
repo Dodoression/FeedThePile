@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7ei3rry8dr5y"
-path="res://.godot/imported/Female Skin5.png-099d903eb2f5fa876da3bfe11ffcad30.ctex"
+path="res://.godot/imported/Female Skin5.png-accda6af16c733bbfc82b34a980c001b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Character skin colors/Female Skin5.png"
-dest_files=["res://.godot/imported/Female Skin5.png-099d903eb2f5fa876da3bfe11ffcad30.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Character skin colors/Female Skin5.png"
+dest_files=["res://.godot/imported/Female Skin5.png-accda6af16c733bbfc82b34a980c001b.ctex"]
 
 [params]
 

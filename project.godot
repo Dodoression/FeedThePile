@@ -15,6 +15,7 @@ run/main_scene="res://Scene/main_menu.tscn"
 config/features=PackedStringArray("4.2", "Mobile")
 boot_splash/image="res://Sprites/intro.png"
 config/icon="res://icon.svg"
+boot_splash/minimum_display_time=1000
 
 [autoload]
 

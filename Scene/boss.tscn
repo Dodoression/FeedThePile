@@ -34,7 +34,6 @@ position = Vector2(-306, -220)
 anchor_mode = 0
 
 [node name="Control" parent="CharacterBody2D/Camera2D" instance=ExtResource("3_8rofk")]
-z_index = 3
 offset_left = 2.0
 offset_top = 2.66701
 offset_right = 2.0

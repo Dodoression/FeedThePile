@@ -1,9 +1,9 @@
 [gd_resource type="TileSet" load_steps=9 format=3 uid="uid://c23lxyt1q7326"]
 
-[ext_resource type="Texture2D" uid="uid://bg1doidyrpqp4" path="res://Tilesets and Characters/GandalfHardcore FREE Platformer Assets v2/GandalfHardcore FREE Platformer Assets v2/GandalfHardcore Platformer Assets v2.png" id="1_omy0v"]
-[ext_resource type="Texture2D" uid="uid://bl35682ehl2gk" path="res://Tilesets and Characters/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/GandalfHardcore Platformer Assets.png" id="2_7gpfp"]
-[ext_resource type="Texture2D" uid="uid://ofn035405511" path="res://Tilesets and Characters/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/Campfire with food sheet.png" id="3_ekefl"]
-[ext_resource type="Texture2D" uid="uid://de2ie0q0b7i56" path="res://Tilesets and Characters/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/Campfire sheet.png" id="4_2epn5"]
+[ext_resource type="Texture2D" uid="uid://bg1doidyrpqp4" path="res://Tilesets/GandalfHardcore FREE Platformer Assets v2/GandalfHardcore FREE Platformer Assets v2/GandalfHardcore Platformer Assets v2.png" id="1_omy0v"]
+[ext_resource type="Texture2D" uid="uid://bl35682ehl2gk" path="res://Tilesets/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/GandalfHardcore Platformer Assets.png" id="2_7gpfp"]
+[ext_resource type="Texture2D" uid="uid://ofn035405511" path="res://Tilesets/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/Campfire with food sheet.png" id="3_ekefl"]
+[ext_resource type="Texture2D" uid="uid://de2ie0q0b7i56" path="res://Tilesets/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/Campfire sheet.png" id="4_2epn5"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_hfcgf"]
 texture = ExtResource("1_omy0v")

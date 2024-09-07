@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvm5gcdaoxag6"
-path="res://.godot/imported/GandalfHardcore Platformer Assets.png-6e0d228b23594a537105e3f6a2dbfbd1.ctex"
+path="res://.godot/imported/GandalfHardcore Platformer Assets.png-2590900e4b4651e71290d41a6e408f1d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/GandalfHardcore Platformer Assets/GandalfHardcore Platformer Assets.png"
-dest_files=["res://.godot/imported/GandalfHardcore Platformer Assets.png-6e0d228b23594a537105e3f6a2dbfbd1.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Platformer Assets/GandalfHardcore/GandalfHardcore Platformer Assets/GandalfHardcore Platformer Assets.png"
+dest_files=["res://.godot/imported/GandalfHardcore Platformer Assets.png-2590900e4b4651e71290d41a6e408f1d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://blf6g0a84cuai"
-path="res://.godot/imported/Red Panties and Bra.png-cb47bc0dc529b752ca2e1118a599d52d.ctex"
+path="res://.godot/imported/Red Panties and Bra.png-4f414bda372813431bd4de91d3fa869f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Clothing/Red Panties and Bra.png"
-dest_files=["res://.godot/imported/Red Panties and Bra.png-cb47bc0dc529b752ca2e1118a599d52d.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Clothing/Red Panties and Bra.png"
+dest_files=["res://.godot/imported/Red Panties and Bra.png-4f414bda372813431bd4de91d3fa869f.ctex"]
 
 [params]
 

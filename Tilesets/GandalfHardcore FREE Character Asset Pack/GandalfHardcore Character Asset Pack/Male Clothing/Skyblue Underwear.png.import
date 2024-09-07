@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsjpbd8crlfv5"
-path="res://.godot/imported/Skyblue Underwear.png-a814e9b45aca32d54da16dc6b8baed54.ctex"
+path="res://.godot/imported/Skyblue Underwear.png-1c0842e37b0e4dbbcca99e6a7faee223.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Clothing/Skyblue Underwear.png"
-dest_files=["res://.godot/imported/Skyblue Underwear.png-a814e9b45aca32d54da16dc6b8baed54.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Clothing/Skyblue Underwear.png"
+dest_files=["res://.godot/imported/Skyblue Underwear.png-1c0842e37b0e4dbbcca99e6a7faee223.ctex"]
 
 [params]
 

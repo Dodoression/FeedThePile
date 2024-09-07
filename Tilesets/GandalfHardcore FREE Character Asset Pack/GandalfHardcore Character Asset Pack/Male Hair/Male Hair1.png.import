@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://20hlhijb1485"
-path="res://.godot/imported/Male Hair1.png-6e4a812ed285b429d9e6e113eb5f34e2.ctex"
+path="res://.godot/imported/Male Hair1.png-9787ec6a28b976e1e8d4085b06bc9d6f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Hair/Male Hair1.png"
-dest_files=["res://.godot/imported/Male Hair1.png-6e4a812ed285b429d9e6e113eb5f34e2.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Hair/Male Hair1.png"
+dest_files=["res://.godot/imported/Male Hair1.png-9787ec6a28b976e1e8d4085b06bc9d6f.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmscb1nbv2a2s"
-path="res://.godot/imported/Skirt.png-67f8792f43ce3dba6e5c110dfc51d0c6.ctex"
+path="res://.godot/imported/Skirt.png-47a23a08204dc329b591799db21f8438.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Clothing/Skirt.png"
-dest_files=["res://.godot/imported/Skirt.png-67f8792f43ce3dba6e5c110dfc51d0c6.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Clothing/Skirt.png"
+dest_files=["res://.godot/imported/Skirt.png-47a23a08204dc329b591799db21f8438.ctex"]
 
 [params]
 

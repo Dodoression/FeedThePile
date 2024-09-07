@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d07b6k4igrtpw"
-path="res://.godot/imported/Green Shirt v2.png-db7a592861f199d8934b4f6736e97826.ctex"
+path="res://.godot/imported/Green Shirt v2.png-148f41ea10b4d1f16fe15f4a03e64a70.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Clothing/Green Shirt v2.png"
-dest_files=["res://.godot/imported/Green Shirt v2.png-db7a592861f199d8934b4f6736e97826.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Clothing/Green Shirt v2.png"
+dest_files=["res://.godot/imported/Green Shirt v2.png-148f41ea10b4d1f16fe15f4a03e64a70.ctex"]
 
 [params]
 

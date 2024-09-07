@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4jdre8cro52q"
-path="res://.godot/imported/Orange Corset.png-836ffc0339a4e3e9b357a6f11c321e6c.ctex"
+path="res://.godot/imported/Orange Corset.png-83bcd4b904315bb76d85c53402e0645c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Clothing/Orange Corset.png"
-dest_files=["res://.godot/imported/Orange Corset.png-836ffc0339a4e3e9b357a6f11c321e6c.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Clothing/Orange Corset.png"
+dest_files=["res://.godot/imported/Orange Corset.png-83bcd4b904315bb76d85c53402e0645c.ctex"]
 
 [params]
 

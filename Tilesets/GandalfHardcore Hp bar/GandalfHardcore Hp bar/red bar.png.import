@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhvv6w57tsqfn"
-path="res://.godot/imported/red bar.png-3419343c575ca5a5df73219e08429563.ctex"
+path="res://.godot/imported/red bar.png-532427624f600ea04871fdb84099c959.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore Hp bar/GandalfHardcore Hp bar/red bar.png"
-dest_files=["res://.godot/imported/red bar.png-3419343c575ca5a5df73219e08429563.ctex"]
+source_file="res://Tilesets/GandalfHardcore Hp bar/GandalfHardcore Hp bar/red bar.png"
+dest_files=["res://.godot/imported/red bar.png-532427624f600ea04871fdb84099c959.ctex"]
 
 [params]
 

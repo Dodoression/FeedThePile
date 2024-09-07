@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://de2ie0q0b7i56"
-path="res://.godot/imported/Campfire sheet.png-161891af8985efbfcf8d08f30f889abf.ctex"
+path="res://.godot/imported/Campfire sheet.png-4d4983a8fef1791773cb494f6fa77355.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/Campfire sheet.png"
-dest_files=["res://.godot/imported/Campfire sheet.png-161891af8985efbfcf8d08f30f889abf.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/Campfire sheet.png"
+dest_files=["res://.godot/imported/Campfire sheet.png-4d4983a8fef1791773cb494f6fa77355.ctex"]
 
 [params]
 

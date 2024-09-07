@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bey6mvspahcph"
-path="res://.godot/imported/Purple Socks.png-9cc50560c482fca7a0d6d4a171d6b6d8.ctex"
+path="res://.godot/imported/Purple Socks.png-91bd591cc5ebb927f4a7e7abf490fa0d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Clothing/Purple Socks.png"
-dest_files=["res://.godot/imported/Purple Socks.png-9cc50560c482fca7a0d6d4a171d6b6d8.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Clothing/Purple Socks.png"
+dest_files=["res://.godot/imported/Purple Socks.png-91bd591cc5ebb927f4a7e7abf490fa0d.ctex"]
 
 [params]
 

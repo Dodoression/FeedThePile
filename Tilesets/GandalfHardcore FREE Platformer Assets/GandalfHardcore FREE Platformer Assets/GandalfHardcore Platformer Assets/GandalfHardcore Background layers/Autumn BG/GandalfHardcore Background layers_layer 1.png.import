@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdej0ayuvwt3a"
-path="res://.godot/imported/GandalfHardcore Background layers_layer 1.png-337afd31b88d0ac55e7e7fbe80801c8e.ctex"
+path="res://.godot/imported/GandalfHardcore Background layers_layer 1.png-2a49b52bdf16fc34d17807e8ed8720f7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/GandalfHardcore Platformer Assets/GandalfHardcore Background layers/Autumn BG/GandalfHardcore Background layers_layer 1.png"
-dest_files=["res://.godot/imported/GandalfHardcore Background layers_layer 1.png-337afd31b88d0ac55e7e7fbe80801c8e.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/GandalfHardcore Platformer Assets/GandalfHardcore Background layers/Autumn BG/GandalfHardcore Background layers_layer 1.png"
+dest_files=["res://.godot/imported/GandalfHardcore Background layers_layer 1.png-2a49b52bdf16fc34d17807e8ed8720f7.ctex"]
 
 [params]
 

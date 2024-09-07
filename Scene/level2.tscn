@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://de2yqnslmtga7" path="res://Sprites/background2.png" id="1_lxeyd"]
 [ext_resource type="TileSet" uid="uid://c23lxyt1q7326" path="res://Scene/tileset.tres" id="2_ccgp4"]
-[ext_resource type="Texture2D" uid="uid://ofn035405511" path="res://Tilesets and Characters/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/Campfire with food sheet.png" id="2_hwrhl"]
+[ext_resource type="Texture2D" uid="uid://ofn035405511" path="res://Tilesets/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/Campfire with food sheet.png" id="2_hwrhl"]
 [ext_resource type="PackedScene" uid="uid://c45q1c7u140mj" path="res://Scene/pile2.tscn" id="3_2xer4"]
 [ext_resource type="FontFile" uid="uid://b2w5ab58orthq" path="res://Font/hush-home-bg/hush-home.ttf" id="4_obii8"]
 [ext_resource type="Script" path="res://Scene/respawn.gd" id="5_fg6hw"]

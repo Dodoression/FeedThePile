@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dk5watta7lw8b"
-path="res://.godot/imported/Pants.png-f12e4fe8f178426a474dcdfcbde726de.ctex"
+path="res://.godot/imported/Pants.png-04faa8dde90338f8d9ebc48f8149f383.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Clothing/Pants.png"
-dest_files=["res://.godot/imported/Pants.png-f12e4fe8f178426a474dcdfcbde726de.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Male Clothing/Pants.png"
+dest_files=["res://.godot/imported/Pants.png-04faa8dde90338f8d9ebc48f8149f383.ctex"]
 
 [params]
 

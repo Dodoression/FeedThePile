@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c52ulgb2vflf0"
-path="res://.godot/imported/GandalfHardcore Background layers_layer 3.png-1e508a2bb4f1f5f88bd64b2da4b4344d.ctex"
+path="res://.godot/imported/GandalfHardcore Background layers_layer 3.png-f3061facb969c303fb0e9bee5dfadce4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/GandalfHardcore Background layers/Winter BG/GandalfHardcore Background layers_layer 3.png"
-dest_files=["res://.godot/imported/GandalfHardcore Background layers_layer 3.png-1e508a2bb4f1f5f88bd64b2da4b4344d.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/GandalfHardcore Background layers/Winter BG/GandalfHardcore Background layers_layer 3.png"
+dest_files=["res://.godot/imported/GandalfHardcore Background layers_layer 3.png-f3061facb969c303fb0e9bee5dfadce4.ctex"]
 
 [params]
 

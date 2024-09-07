@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqj8t827gb4ic"
-path="res://.godot/imported/Male Skin4.png-1f31e734c1aebd084da1a673bdbaf3b6.ctex"
+path="res://.godot/imported/Male Skin4.png-b0419c539323996ec047d922abecd16b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Character skin colors/Male Skin4.png"
-dest_files=["res://.godot/imported/Male Skin4.png-1f31e734c1aebd084da1a673bdbaf3b6.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Character skin colors/Male Skin4.png"
+dest_files=["res://.godot/imported/Male Skin4.png-b0419c539323996ec047d922abecd16b.ctex"]
 
 [params]
 

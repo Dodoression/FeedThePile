@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xorkqlac18lo"
-path="res://.godot/imported/Orange Socks.png-dad2fb1dcc018c1839d928caa7634079.ctex"
+path="res://.godot/imported/Orange Socks.png-9559a5520e1322c30541320ebde5265e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Clothing/Orange Socks.png"
-dest_files=["res://.godot/imported/Orange Socks.png-dad2fb1dcc018c1839d928caa7634079.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Character Asset Pack/GandalfHardcore Character Asset Pack/Female Clothing/Orange Socks.png"
+dest_files=["res://.godot/imported/Orange Socks.png-9559a5520e1322c30541320ebde5265e.ctex"]
 
 [params]
 

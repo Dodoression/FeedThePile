@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mny2gk7peqov"
-path="res://.godot/imported/GandalfHardcore Water Tiles sheet.png-edc0122e0f4897eb42f706764d57d8c7.ctex"
+path="res://.godot/imported/GandalfHardcore Water Tiles sheet.png-678e11a77d80b6f72785680a68afb513.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilesets and Characters/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/GandalfHardcore Water Tiles sheet.png"
-dest_files=["res://.godot/imported/GandalfHardcore Water Tiles sheet.png-edc0122e0f4897eb42f706764d57d8c7.ctex"]
+source_file="res://Tilesets/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets/GandalfHardcore Water Tiles sheet.png"
+dest_files=["res://.godot/imported/GandalfHardcore Water Tiles sheet.png-678e11a77d80b6f72785680a68afb513.ctex"]
 
 [params]
 
