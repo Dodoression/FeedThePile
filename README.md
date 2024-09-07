@@ -73,6 +73,7 @@ Special thanks to my wonderful partner and to the Godot community and contributo
 - **0.1.0:** Initial release with basic gameplay mechanics.
 - **0.1.1:** Bug fixes and simplifying the gameplay.
 - **0.2.0:** Bug fixes and fixing controls. Audio and detail adjustments.
+- **0.2.1:** Slight control changes for easier gameplay. Bug fixes.
 
 ## **Contact**
 
