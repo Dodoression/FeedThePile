@@ -54,7 +54,7 @@ Special thanks to my wonderful partner and to the Godot community and contributo
 
 **Q:** What is Feed The Pile!?
 
-**A:** Feed The Pile! is a 2D platformer game made in Godot, where the player collects food to feed a chickens.
+**A:** Feed The Pile! is a 2D platformer game made in Godot, where the player collects food to feed the chicken.
 
 **Q:** How do I install Feed The Pile!?
 
